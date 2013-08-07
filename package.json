@@ -1,0 +1,10 @@
+{
+  "name":"rssrunner",
+  "dependencies":{
+    "request": "*",
+    "coffee-script": "*",
+    "feedparser": "*",
+    "express": "*",
+    "mongoose": "*"
+  }
+}

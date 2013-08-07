@@ -1,0 +1,1826 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"baseline"
+			],
+			[
+				"st",
+				"streamData"
+			],
+			[
+				"init",
+				"initAdvancedFilter"
+			],
+			[
+				"ex",
+				"existingHash"
+			],
+			[
+				"da",
+				"dateString"
+			],
+			[
+				"user",
+				"user_setting"
+			],
+			[
+				"com",
+				"company_ids"
+			],
+			[
+				"film",
+				"film_ids"
+			],
+			[
+				"obj",
+				"object_id"
+			],
+			[
+				"sen",
+				"send_digest"
+			],
+			[
+				"sub",
+				"subsetting"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"DIS",
+				"disabled"
+			],
+			[
+				"Fie",
+				"fieldName"
+			],
+			[
+				"Fi",
+				"fieldName"
+			],
+			[
+				"field",
+				"fieldName"
+			],
+			[
+				"Add",
+				"AddRole"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"updated",
+				"updated_counters"
+			],
+			[
+				"em",
+				"em"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"margin",
+				"marketingMargin"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"csrf",
+				"csrfmiddlewaretoken"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"htt",
+				"HttpResponse"
+			],
+			[
+				"err",
+				"errorMesage"
+			],
+			[
+				"tracke",
+				"trackedDict"
+			],
+			[
+				"Profile",
+				"ProfileManager"
+			],
+			[
+				"remov",
+				"removeStar"
+			],
+			[
+				"lo",
+				"lowest"
+			],
+			[
+				"cur",
+				"currentTrigger"
+			],
+			[
+				"cu",
+				"currentTrigger"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"is",
+				"isTouch"
+			],
+			[
+				"mp",
+				"mpWidth"
+			],
+			[
+				"wind",
+				"winWidth"
+			],
+			[
+				"win",
+				"winWidth"
+			],
+			[
+				"crea",
+				"createMutalModal"
+			],
+			[
+				"hide",
+				"hideTimeout"
+			],
+			[
+				"tr",
+				"trigger_type"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"image",
+				"image_url"
+			],
+			[
+				"req",
+				"requestData"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"log",
+				"login_required"
+			],
+			[
+				"cs",
+				"csrfmiddlewaretoken"
+			],
+			[
+				"csr",
+				"csrftoken"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"ste",
+				"stepElements"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"sle",
+				"selector"
+			],
+			[
+				"appr",
+				"approved"
+			],
+			[
+				"wait",
+				"waitlist_user"
+			],
+			[
+				"get",
+				"get_profile"
+			],
+			[
+				"suc",
+				"success_message"
+			],
+			[
+				"Veri",
+				"VerificationProfile"
+			],
+			[
+				"verit",
+				"verification_key"
+			],
+			[
+				"archiv",
+				"archiveClick"
+			],
+			[
+				"fil",
+				"filterInbox"
+			],
+			[
+				"load",
+				"load_more_button"
+			],
+			[
+				"open",
+				"openDatastore"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"show",
+				"show_step"
+			],
+			[
+				"filter",
+				"filter_term"
+			],
+			[
+				"search",
+				"search_term"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"conte",
+				"context_instance"
+			],
+			[
+				"rec",
+				"recipient"
+			],
+			[
+				"int",
+				"internal"
+			],
+			[
+				"new",
+				"newCardForm"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"rea",
+				"reasons_text"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"valida",
+				"validate"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"form",
+				"formatPieces"
+			],
+			[
+				"current",
+				"current_step"
+			],
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"on",
+				"onEnter"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"to",
+				"toDateString"
+			],
+			[
+				"set",
+				"setDate"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"from",
+				"from_user"
+			],
+			[
+				"se",
+				"selectCompany"
+			],
+			[
+				"invest",
+				"investmentCo"
+			],
+			[
+				"inv",
+				"investment_co"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"_key",
+				"_keydown"
+			],
+			[
+				"item",
+				"itemClass"
+			],
+			[
+				"menu",
+				"menuClass"
+			],
+			[
+				"sear",
+				"searchData"
+			],
+			[
+				"ele",
+				"elements"
+			],
+			[
+				"in",
+				"internal"
+			],
+			[
+				"not",
+				"notification"
+			],
+			[
+				"check",
+				"checkComplete"
+			],
+			[
+				"jS",
+				"jScrollPaneSettings"
+			],
+			[
+				"j",
+				"jScrollPane"
+			],
+			[
+				"bra",
+				"braintreeKey"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"val",
+				"valueList"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"write",
+				"writeln"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"con",
+				"contentId"
+			],
+			[
+				"pack",
+				"packagedApps"
+			],
+			[
+				"cr",
+				"created"
+			],
+			[
+				"bro",
+				"browse_type"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"a",
+				"accreditationForm"
+			],
+			[
+				"th",
+				"thisFieldClass"
+			],
+			[
+				"fa",
+				"fauxInput"
+			],
+			[
+				"fau",
+				"fauxCheckboxClass"
+			],
+			[
+				"margi",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.coffee",
+			"settings":
+			{
+				"buffer_size": 3495,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 29.0,
+		"selected_items":
+		[
+			[
+				"sy co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"dj",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"\nj",
+				"Set Syntax: JavaDoc"
+			],
+			[
+				"j",
+				"Set Syntax: JavaDoc"
+			],
+			[
+				"DJ",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"\ndj",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"case",
+				"Convert Case: Swap Case"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"conv",
+				"Convert Case: Upper Case"
+			],
+			[
+				"",
+				"Convert Case: Swap Case"
+			],
+			[
+				"eror",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"lint sh",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"lint ",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"pakc",
+				"Package Control: List Packages"
+			],
+			[
+				"Linter",
+				"SublimeLinter: Background Linting"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"djan",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"set",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fj",
+				"File: Copy Path From Project"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package Control:",
+				"Package Control: Add Repository"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"jd",
+				"Set Syntax: JavaDoc"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"dja",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"djang",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"django",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Cont",
+				"Package Control: Install Package"
+			],
+			[
+				"coff",
+				"Coffee: Compile File"
+			],
+			[
+				"coffe",
+				"Coffee: Compile File"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 479.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/AddRole.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/UserFilms.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/ToggleViewEdit.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/ToggleViewEdit.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_marketing.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/productFirstLook.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_buttons.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/manage/lib/manage.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/products/thanks.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/notification/update_sent/email_body.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/notification/messages_received/email_body.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/products/first_look_marketing.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_form_elements.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_updates.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/films/updates.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/security/investors_only.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/email/base.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/lib/tc.lib.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/lib/typecode-js/lib/merlin/tc.merlin.autosave.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/userProfileEdit.dist.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_streams.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/ActivityFeed.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/AdvancedFilter.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/browseSection.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/base.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/activity/activity_profile.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/ActivityFeed.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/Browse.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/browseSection.dist.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/people/home_generic.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/lib/slated/source/Field.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/lib/slated/source/Form.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/lib/slated/source/FieldSelect.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/lib/slated/source/FormPlus.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/lib/slated/FormPlus.dist.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_variables_mixins.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_marketing_homepage.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/people/marketing/home_generic_overview.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/FilmFinancials_BudgetDetail.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/lib/slated/source/FieldPlus.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/home/home_base.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/films/role_utils.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/filmOnboarding.dist.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/ProfileBase.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/home/activity_feed_east_rail.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/companies/company_profile.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/TrackerBox.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/TrackerBox.new.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/people/modules/UserFilms.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/lib/slated/source/Validator.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/films/detail.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/TrackerBox.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/lib/slated/source/Autocomplete.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_modals.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/modal.TOC.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/registration/registration_form.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/products/views.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/people/models.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/notification/first_look_interest/email_body.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/location/models.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/products/models.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/personOnboarding2.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/Gruntfile.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/notification/utils.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_info_pages.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/userProfileEdit.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/taggit/views.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/taggit/urls.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/core.modules.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/Tagging.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/PersonOnboardingTagging.new.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/personOnboarding2.dist.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/PersonOnboardingTagging.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/ProfileManager.new.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/digests/daily_digest.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/DeletePages.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/FilmAdministrators.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/AccountSettings.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/films/models.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/MiscFunctions.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_layout_classes.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_field_table.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/account/account_account.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/notification/models.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/filmProfileEdit.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/search/browse.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/films/modules/FilmSettings.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/FilmSettings.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/ProfileInterests.amd.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/CCForm.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/TrackButton.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/account/urls.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/widgets/requireScripts.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/onboarding/person_4.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/onboarding/person_3.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/PersonOnboarding4.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/modal.InvestorApply.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/ActivityModule.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/Overlay.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/companies/modules/CompanySettings.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/CompanySettings.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/company/views.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_tooltips.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/account/views.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/account/account_email.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/films/modules/FilmMainContent.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/companies/modules/CompanyMainContent.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/widgets/investor_accreditation_form.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/widgets/modal.InvestorApply.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/ProfileInterests.amd.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/FilmNotes.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/UploadModule.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/films/views.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/lib/slated/source/AutoSave.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/films/urls.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_settings.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_profiles.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/slated/people/urls.py",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/payments/account_billing.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/account/account_base.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/css/_base.scss",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/Bootstrap.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/emailSettings.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/modules/SearchBox.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/templates/films/widgets/progress.html",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/userProfile.dist.js",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/emailSettings.coffee",
+		"/Users/danielfarrelly/Sites/Slated/repo1/static/js/app/common.coffee"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/danielfarrelly/Sites/Slated/repo2/static/js/",
+			"",
+			"/Users/danielfarrelly/Sites/Slated/repo2/static/js/app/modules",
+			"",
+			"MiniProfile.amd",
+			"",
+			"/Users/danielfarrelly/Sites/Slated/repo2/static/js",
+			"/Users/danielfarrelly/Sites/Slated/repo2/static/css",
+			"",
+			"/Users/danielfarrelly/Sites/Slated/repo2/templates/manage",
+			"",
+			"/Users/danielfarrelly/Sites/Slated/repo2/static/css",
+			"/Users/danielfarrelly/Sites/Slated/repo2/static/js",
+			"",
+			"/Users/danielfarrelly/Sites/Slated/repo2/templates",
+			"",
+			"/Users/danielfarrelly/Sites/Slated_repo2/static",
+			"",
+			"/Users/danielfarrelly/Sites/Slated_repo2/static",
+			"/Users/danielfarrelly/Sites/Slated_repo2/templates/,/Users/danielfarrelly/Sites/Slated_repo2/static",
+			"/Users/danielfarrelly/Sites/Slated_repo2/templates/",
+			"/Users/danielfarrelly/Sites/Slated_repo2/static/css",
+			"",
+			"/Users/danielfarrelly/Sites/Slated_repo3/static/js",
+			"",
+			"/Users/danielfarrelly/Sites/Slated_repo3/static/js",
+			"",
+			"/Users/danielfarrelly/Sites/Slated/templates",
+			"",
+			"<open folders>",
+			"",
+			"/Users/danielfarrelly/Sites/Slated/templates/notification",
+			"/Users/danielfarrelly/Sites/Slated/templates",
+			"/Users/danielfarrelly/Sites/Slated/templates/digests",
+			"",
+			"/Users/danielfarrelly/Sites/Slated/slated/people",
+			"",
+			"/Users/danielfarrelly/Sites/Slated/templates",
+			"",
+			"/Users/danielfarrelly/Sites/Slated_companies/static/js/app/modules",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"elements.mask",
+			"current",
+			"Don't worry!",
+			"Sorry as your are not",
+			"reponsive",
+			"input[type=\"checkbox\"]",
+			"has sent you an update",
+			"inactive",
+			"disabled",
+			"payment-successful",
+			"#hack",
+			"me.extensions.autosave.init(",
+			"me.extensions.autosave.save(",
+			"me.extensions.autosave.",
+			"me.extensions.autosave.init(me",
+			"autosave",
+			"internal.functions",
+			"SHIM",
+			"shim",
+			"noMoreResults",
+			"loadFeed",
+			"no_more_results",
+			"resultsInfo",
+			":",
+			".on",
+			"on",
+			"loadContent",
+			"split",
+			"item.split",
+			"currentValue",
+			"value",
+			"reset",
+			".marketing",
+			"1.p",
+			"5up-",
+			"secondmarket",
+			"media-",
+			".company-logo",
+			"body.marketing ",
+			"company-logo",
+			"body",
+			"company-logo",
+			"month - 1",
+			"menuItemClass",
+			"nu '",
+			"item",
+			".item",
+			"existing",
+			"setup_view_all_modal",
+			",",
+			"TrackerBox",
+			"Tracker",
+			"trackingSubmodule",
+			"onSelect",
+			"/trackers/",
+			"trackers",
+			"onSelect",
+			"jScrollPaneAvailable",
+			"onSelect",
+			"updateDate",
+			"get_primary_user_location",
+			"pref",
+			"UserProductNotes",
+			"PersonOnboardingTagging",
+			"data('",
+			"data('selected",
+			"PersonOnboardingProgress",
+			"onboarding",
+			"Onboarding",
+			"Tagging",
+			"print",
+			"read-more-container",
+			".data('",
+			"data('select",
+			"Tagging",
+			"exclude",
+			"inactive",
+			"data",
+			"D>",
+			">",
+			"CLI",
+			"Clicked",
+			"true",
+			"data(",
+			"true",
+			"\"user-generated\"",
+			"markup",
+			"=== false",
+			"=== true",
+			"add_tag",
+			"== false",
+			"The remaining",
+			"The remaing",
+			" === true",
+			".data('selected') === true",
+			".data('selected') === ",
+			".data('selected')",
+			".data('selected', fal",
+			".data('selected', fase",
+			".data('selected', true",
+			".data('selected'",
+			"selected",
+			"data-selected",
+			"data",
+			"attr",
+			"FilmSettings",
+			"#Controls",
+			"Get referred",
+			"field",
+			"internal.current_step.fie",
+			"updateBadges",
+			"first",
+			"firstChild",
+			"\"Overlay\"",
+			"'Overlay'",
+			"get_admin_films_for_user",
+			"FilmNotes",
+			"UploadModule.js",
+			"save_admin_digest_setting",
+			"'",
+			":",
+			"radio-holder pad-right",
+			"right",
+			"settings-table",
+			"save_field",
+			"notification.utils",
+			"fs",
+			"CHOICES"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" === 'true'",
+			".data('selected') === 'true'",
+			"Overlay",
+			"MiniProfile.amd",
+			"font-family:Georgia, 'Times New Roman'",
+			" ",
+			"{{current_site}}",
+			"src=\"<?php get_theme_url(); ?>/",
+			".png?v=1",
+			"tc-field-simple-tooltip",
+			"obj",
+			"Featured Cast / Crew",
+			", ",
+			"p",
+			"</p>",
+			"<p>",
+			"http://www.powerpilates.com/press",
+			"http://www.powerpilates.com/press.html",
+			"card_turn"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.coffee",
+					"settings":
+					{
+						"buffer_size": 3495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								841,
+								841
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501",
+								"E2",
+								"E3",
+								"W291",
+								"W293"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+								"css"
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"app.coffee"
+			],
+			[
+				"manageview",
+				"slated/manage/views.py"
+			],
+			[
+				"toggleview",
+				"static/js/app/modules/ToggleViewEdit.js"
+			],
+			[
+				"tog",
+				"static/js/app/modules/ToggleViewEdit.coffee"
+			],
+			[
+				"addrole",
+				"static/js/app/modules/AddRole.coffee"
+			],
+			[
+				"userfilm",
+				"static/js/app/modules/UserFilms.coffee"
+			],
+			[
+				"emailbase",
+				"templates/email/base.html"
+			],
+			[
+				"updates",
+				"templates/films/updates.html"
+			],
+			[
+				"_upda",
+				"static/css/_updates.scss"
+			],
+			[
+				"mana",
+				"static/manage/lib/manage.scss"
+			],
+			[
+				"formelem",
+				"static/css/_form_elements.scss"
+			],
+			[
+				"mesagerec",
+				"templates/notification/messages_received/email_body.html"
+			],
+			[
+				"_button",
+				"static/css/_buttons.scss"
+			],
+			[
+				"productfirstl",
+				"static/js/productFirstLook.coffee"
+			],
+			[
+				"_market",
+				"static/css/_marketing.scss"
+			],
+			[
+				"firstlook",
+				"templates/products/first_look_marketing.html"
+			],
+			[
+				"stream",
+				"static/css/_streams.scss"
+			],
+			[
+				"activityfee",
+				"static/js/app/modules/ActivityFeed.coffee"
+			],
+			[
+				"advanc",
+				"static/js/app/modules/AdvancedFilter.coffee"
+			],
+			[
+				"merlinautosave",
+				"static/js/lib/typecode-js/lib/merlin/tc.merlin.autosave.js"
+			],
+			[
+				"tclib",
+				"static/js/lib/tc.lib.js"
+			],
+			[
+				"base",
+				"templates/base.html"
+			],
+			[
+				"acitivyt",
+				"templates/activity/activity_profile.html"
+			],
+			[
+				"userprofi",
+				"static/js/userProfileEdit.dist.js"
+			],
+			[
+				"browse",
+				"static/js/browseSection.coffee"
+			],
+			[
+				"browsesection",
+				"static/js/browseSection.dist.js"
+			],
+			[
+				"advance",
+				"static/js/app/modules/AdvancedFilter.coffee"
+			],
+			[
+				"formcof",
+				"static/js/lib/slated/source/Form.coffee"
+			],
+			[
+				"formplus",
+				"static/js/lib/slated/source/FormPlus.coffee"
+			],
+			[
+				"var",
+				"static/css/_variables_mixins.scss"
+			],
+			[
+				"field.co",
+				"static/js/lib/slated/source/Field.coffee"
+			],
+			[
+				"fieldplus",
+				"static/js/lib/slated/source/FieldPlus.coffee"
+			],
+			[
+				"fieldsele",
+				"static/js/lib/slated/source/FieldSelect.coffee"
+			],
+			[
+				"home_generic_overview",
+				"templates/people/marketing/home_generic_overview.html"
+			],
+			[
+				"homegen",
+				"templates/people/home_generic.html"
+			],
+			[
+				"home_base",
+				"templates/home/home_base.html"
+			],
+			[
+				"budgetde",
+				"static/js/app/modules/FilmFinancials_BudgetDetail.js"
+			],
+			[
+				"browses",
+				"static/js/browseSection.dist.js"
+			],
+			[
+				"roleut",
+				"slated/films/role_utils.py"
+			],
+			[
+				"valida",
+				"static/js/lib/slated/source/Validator.coffee"
+			],
+			[
+				"east",
+				"templates/home/activity_feed_east_rail.html"
+			],
+			[
+				"homebase",
+				"templates/home/home_base.html"
+			],
+			[
+				"companyprof",
+				"templates/companies/company_profile.html"
+			],
+			[
+				"filmdetail",
+				"templates/films/detail.html"
+			],
+			[
+				"trackerboxc",
+				"static/js/app/modules/TrackerBox.coffee"
+			],
+			[
+				"profilebase",
+				"static/js/app/ProfileBase.coffee"
+			],
+			[
+				"filmonboar",
+				"static/js/filmOnboarding.dist.js"
+			],
+			[
+				"autocomplete",
+				"static/js/lib/slated/source/Autocomplete.coffee"
+			],
+			[
+				"userprofidis",
+				"static/js/userProfileEdit.dist.js"
+			],
+			[
+				"_modal",
+				"static/css/_modals.scss"
+			],
+			[
+				"regist",
+				"templates/registration/registration_form.html"
+			],
+			[
+				"modal.toc",
+				"static/js/app/modules/modal.TOC.js"
+			],
+			[
+				"fieldsee",
+				"static/js/lib/slated/source/FieldSelect.coffee"
+			],
+			[
+				"budgetd",
+				"static/js/app/modules/FilmFinancials_BudgetDetail.js"
+			],
+			[
+				"filmon",
+				"static/js/filmOnboarding.dist.js"
+			],
+			[
+				"locationmodel",
+				"slated/location/models.py"
+			],
+			[
+				"firstlookinterem",
+				"templates/notification/first_look_interest/email_body.html"
+			],
+			[
+				"peoplemode",
+				"slated/people/models.py"
+			],
+			[
+				"productview",
+				"slated/products/views.py"
+			],
+			[
+				"browsese",
+				"static/js/browseSection.dist.js"
+			],
+			[
+				"productmodel",
+				"slated/products/models.py"
+			],
+			[
+				"person",
+				"static/js/personOnboarding2.js"
+			],
+			[
+				"personon",
+				"static/js/personOnboarding2.dist.js"
+			],
+			[
+				"personona",
+				"static/js/app/modules/PersonOnboardingTagging.js"
+			],
+			[
+				"persononboardingtagging",
+				"static/js/app/modules/PersonOnboardingTagging.new.js"
+			],
+			[
+				"tagging",
+				"static/js/app/modules/Tagging.js"
+			],
+			[
+				"gruntfi",
+				"static/Gruntfile.coffee"
+			],
+			[
+				"profilemana",
+				"static/js/app/modules/ProfileManager.new.js"
+			],
+			[
+				"taggitview",
+				"slated/taggit/views.py"
+			],
+			[
+				"daily",
+				"templates/digests/daily_digest.html"
+			],
+			[
+				"notifut",
+				"slated/notification/utils.py"
+			],
+			[
+				"notifutil",
+				"slated/notification/utils.py"
+			],
+			[
+				"taggiturl",
+				"slated/taggit/urls.py"
+			],
+			[
+				"taggin",
+				"static/js/app/modules/Tagging.js"
+			],
+			[
+				"userprof",
+				"static/js/userProfileEdit.coffee"
+			],
+			[
+				".amd",
+				"static/js/app/modules/ProfileInterests.amd.coffee"
+			],
+			[
+				"userprofile",
+				"static/js/userProfileEdit.coffee"
+			],
+			[
+				"ccform",
+				"static/js/app/modules/CCForm.coffee"
+			],
+			[
+				"brows",
+				"templates/search/browse.html"
+			],
+			[
+				"firstlookmark",
+				"templates/products/first_look_marketing.html"
+			],
+			[
+				"productfirs",
+				"static/js/productFirstLook.coffee"
+			],
+			[
+				"filmprofile",
+				"static/js/filmProfileEdit.coffee"
+			],
+			[
+				"_field",
+				"static/css/_field_table.scss"
+			],
+			[
+				"layout",
+				"static/css/_layout_classes.scss"
+			],
+			[
+				"filmmodel",
+				"slated/films/models.py"
+			],
+			[
+				"misc",
+				"static/js/app/modules/MiscFunctions.js"
+			],
+			[
+				"accountse",
+				"static/js/app/modules/AccountSettings.js"
+			],
+			[
+				"filmad",
+				"static/js/app/modules/FilmAdministrators.js"
+			],
+			[
+				"filmadmin",
+				"static/js/app/modules/FilmAdministrators.js"
+			],
+			[
+				"trackbut",
+				"static/js/app/modules/TrackButton.js"
+			],
+			[
+				"accountsettings",
+				"static/js/app/modules/AccountSettings.js"
+			],
+			[
+				"deletepages",
+				"static/js/app/modules/DeletePages.coffee"
+			],
+			[
+				"account",
+				"templates/account/account_account.html"
+			],
+			[
+				"onboarding4",
+				"templates/onboarding/person_4.html"
+			],
+			[
+				"persononboarding4",
+				"static/js/app/modules/PersonOnboarding4.js"
+			],
+			[
+				"modal.inves",
+				"static/js/app/modules/modal.InvestorApply.js"
+			],
+			[
+				"activitymodu",
+				"static/js/app/modules/ActivityModule.js"
+			],
+			[
+				"require",
+				"templates/widgets/requireScripts.html"
+			],
+			[
+				"over",
+				"static/js/app/modules/Overlay.js"
+			],
+			[
+				"filmmaincon",
+				"templates/films/modules/FilmMainContent.html"
+			],
+			[
+				"companymain",
+				"templates/companies/modules/CompanyMainContent.html"
+			],
+			[
+				"investor_accreditation_form",
+				"templates/widgets/investor_accreditation_form.html"
+			],
+			[
+				"modal.inve",
+				"templates/widgets/modal.InvestorApply.html"
+			],
+			[
+				"accountemai",
+				"templates/account/account_email.html"
+			],
+			[
+				"accountview",
+				"slated/account/views.py"
+			],
+			[
+				"profilein",
+				"static/js/app/modules/ProfileInterests.amd.js"
+			],
+			[
+				"userprofileedit",
+				"static/js/userProfileEdit.dist.js"
+			],
+			[
+				"userprofil",
+				"static/js/userProfileEdit.coffee"
+			],
+			[
+				"filmno",
+				"static/js/app/modules/FilmNotes.js"
+			],
+			[
+				"upload",
+				"static/js/app/modules/UploadModule.js"
+			],
+			[
+				"tcauto",
+				"static/js/lib/typecode-js/lib/merlin/tc.merlin.autosave.js"
+			],
+			[
+				"autosave",
+				"static/js/lib/typecode-js/lib/merlin/tc.merlin.autosave.js"
+			],
+			[
+				"filmview",
+				"slated/films/views.py"
+			],
+			[
+				"_too",
+				"static/css/_tooltips.scss"
+			],
+			[
+				"companyview",
+				"slated/company/views.py"
+			],
+			[
+				"companyprofil",
+				"templates/companies/company_profile.html"
+			],
+			[
+				"companyse",
+				"static/js/app/modules/CompanySettings.js"
+			],
+			[
+				"_profile",
+				"static/css/_profiles.scss"
+			],
+			[
+				"_sett",
+				"static/css/_settings.scss"
+			],
+			[
+				"peopleurl",
+				"slated/people/urls.py"
+			],
+			[
+				"filmurl",
+				"slated/films/urls.py"
+			],
+			[
+				"_tool",
+				"static/css/_tooltips.scss"
+			],
+			[
+				"filmseting",
+				"static/js/app/modules/FilmSettings.js"
+			],
+			[
+				"notifuti",
+				"slated/notification/utils.py"
+			],
+			[
+				"",
+				"slated/notification/models.py"
+			],
+			[
+				"notifmode",
+				"slated/notification/models.py"
+			],
+			[
+				"_set",
+				"static/css/_settings.scss"
+			],
+			[
+				"boot",
+				"static/js/app/modules/Bootstrap.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/danielfarrelly/Sites/Slated/sublime_projects/repo2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true
+}
