@@ -33,7 +33,7 @@ app.configure ->
 
 
 app.get '/', (req, res) ->
-  models.Article.find( (err, data) ->
+  models.Article.find().sort({ pubDate: -1 }).exec( (err, data) ->
     return handleError(err) if err
 
     res.render('feed',
@@ -43,7 +43,7 @@ app.get '/', (req, res) ->
 
 # the feed in json format
 app.get '/json', (req, res) ->
-  models.Article.find( (err, data) ->
+  models.Article.find().sort({ pubDate: -1 }).exec( (err, data) ->
     return handleError(err) if err
 
     res.json(data)
