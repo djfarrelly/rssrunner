@@ -1,0 +1,15 @@
+extend layout
+block content
+  p
+    em #{articles.length} matching articles
+  .feed
+    for article in articles
+      .article
+        h2
+          a(href=article.url, target='_blank')= article.title
+        p!= article.description
+        p.keywords Matching Keywords: 
+          for keyword, i in article.keywords
+            strong= keyword
+            if i != article.keywords.length - 1
+              , 

@@ -5,6 +5,7 @@
     "coffee-script": "*",
     "feedparser": "*",
     "express": "*",
+    "jade": "*",
     "mongoose": "*"
   }
 }

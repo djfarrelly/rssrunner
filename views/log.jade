@@ -1,0 +1,6 @@
+extend layout
+block content
+  for entry in log
+    p #{entry.text} at #{entry.timestamp}
+    p
+      small= mongoURL
