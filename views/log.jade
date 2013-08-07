@@ -1,6 +1,11 @@
 extend layout
 block content
-  for entry in log
-    p #{entry.text} at #{entry.timestamp}
-    p
-      small= mongoURL
+  if log
+    p 
+      a(href='/run') Run rss runner
+
+    for entry in log
+      p #{entry.text} at #{entry.timestamp}
+
+  if status
+    p= status

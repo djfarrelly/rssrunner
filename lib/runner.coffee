@@ -64,8 +64,10 @@ addResultsToDB = (results, done) ->
       done(err) if typeof done == 'function' and err
       complete += 1
       newArticles += 1 if newArticleAdded
-      done(null, newArticles) if typeof done == 'function' and complete == Object.keys(results).length
-      )
+      if typeof done == 'function' and complete == Object.keys(results).length
+        done(null, newArticles)
+        done = null
+    )
 
 
 addMatchingArticle = (article, keywords, done) ->
@@ -127,6 +129,8 @@ getFeeds = ->
   for feed, url of feeds
     getFeed(url)
 
+exports.getFeeds = getFeeds
+
 # Called when all the feeds have been requested and parsed
 completed = ->
   searchKeywords()
@@ -166,6 +170,5 @@ if not mongoose.connection.db
 
 else
   console.log "Database connection already established"
-  getFeeds()
-
+  # use exports.getFeeds to run this
 

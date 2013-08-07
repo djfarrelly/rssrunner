@@ -3,7 +3,8 @@ mongoose = require 'mongoose'
 fs = require 'fs'
 path = require 'path'
 
-models = require './src/models.coffee'
+models = require './lib/models.coffee'
+runner = null
 
 # Mongo 
 mongoose.connect(process.env.MONGOHQ_URL or 'mongodb://localhost/rssrunner')
@@ -12,6 +13,7 @@ db = mongoose.connection
 db.on('error', console.error.bind(console, 'connection error:'))
 db.once('open', ->
   console.log "Database connection successful"
+  runner = require './lib/runner.coffee'
 )
 
 
@@ -35,7 +37,7 @@ app.get '/', (req, res) ->
     return handleError(err) if err
 
     res.render('feed',
-      { articles : data }
+      articles: data
     )
   )
 
@@ -56,24 +58,35 @@ app.get '/keywords', (req, res) ->
 
 # List all feeds currently being sourced
 app.get '/feeds', (req, res) ->
-  feeds = require './src/feeds.coffee'
+  feeds = require './lib/feeds.coffee'
   res.json(feeds)
 
 # List all feeds currently being sourced
 app.get '/log', (req, res) ->
-  models.Log.find( (err, data) ->
+  models.Log.find().limit(20).sort({ timestamp: -1 }).exec( (err, logData) ->
     return handleError(err) if err
 
     res.render('log',
-      log : data
-      mongoURL: process.env.MONGOHQ_URL
+      log : logData
     )
   )
 
-
+# run the script via get request
 app.get '/run', (req, res) ->
-  runner = require './src/runner.coffee'
-  res.send("running...")
+  models.Log.findOne().sort({ timestamp: -1 }).exec( (err, entry)->
+
+    tenMinAgo = new Date()
+    tenMinAgo.setMinutes(tenMinAgo.getMinutes() - 10)
+
+    # if it had been run more than 10 min ago, run the script
+    if entry.timestamp < tenMinAgo and runner
+      runner.getFeeds()
+      status = "Running...check back in a couple min"
+
+    res.render('log',
+      status: status or "Wait a few minutes..."
+    )
+  )
 
 
 port = process.env.PORT or 3000
