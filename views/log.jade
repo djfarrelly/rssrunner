@@ -2,7 +2,8 @@ extend layout
 block content
   if log
     p 
-      a(href='/run') Run rss runner
+      em Script will run automatically every hour at 20 past the hour
+      a(href='/run') Run script now
 
     for entry in log
       p #{entry.text} at #{entry.timestamp}

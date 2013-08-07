@@ -1,5 +1,8 @@
 {
   "name":"rssrunner",
+  "engines": {
+    "node": ">=0.10.15"
+  },
   "dependencies":{
     "request": "*",
     "coffee-script": "*",
