@@ -2,6 +2,7 @@ mongoose = require 'mongoose'
 
 # Tasks
 articleSchema = mongoose.Schema
+  archived: { type: Boolean, default: false }
   title: String
   url: String
   source: String

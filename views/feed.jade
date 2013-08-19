@@ -1,16 +1,27 @@
 extend layout
 block content
-  p
-    em #{articles.length} matching articles
-  .feed
-    for article in articles
-      .article
+  div(ng-app='rssRunner')
+    div(ng-controller='ArticleController')
+
+      .feed(ng-model='Article')
+        .article(ng-repeat='article in articles')
+          h2
+            a(href='{{article.url}}')
+              {{ article.title }}
+          span.sub {{ article.url }}
+          p
+            strong Matching: 
+            span(ng-repeat='keyword in article.keywords')
+              {{ keyword }}
+              span(ng-show='! $last') , 
+            &nbsp;|&nbsp;
+            a(ng-click='delete()') Delete
+
+      .feed
         h2
-          a(href=article.url, target='_blank')= article.title
-        p!= article.description
-        p Published: #{article.pubDate}
-        p.keywords Matching Keywords: 
-          for keyword, i in article.keywords
-            strong= keyword
-            if i != article.keywords.length - 1
-              , 
+          a(ng-click='loadMore()') Load the next 20 matches
+
+
+  script(src='/js/lib/angular/angular.js')
+  script(src='/js/lib/angular-resource/angular-resource.js')
+  script(src='/js/feed.js')

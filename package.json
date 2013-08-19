@@ -1,14 +1,15 @@
 {
-  "name":"rssrunner",
+  "name": "rssrunner",
   "engines": {
     "node": ">=0.10.15"
   },
-  "dependencies":{
+  "dependencies": {
     "request": "*",
     "coffee-script": "*",
     "feedparser": "*",
     "express": "*",
     "jade": "*",
-    "mongoose": "*"
+    "mongoose": "*",
+    "connect-assets": "~2.5.0"
   }
 }

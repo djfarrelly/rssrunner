@@ -32,22 +32,63 @@ app.configure ->
   app.set('view engine', 'jade')
 
 
-app.get '/', (req, res) ->
-  models.Article.find().sort({ pubDate: -1 }).exec( (err, data) ->
-    return handleError(err) if err
 
-    res.render('feed',
-      articles: data
-    )
-  )
+app.get '/', (req, res) ->
+  # models.Article.find().sort({ pubDate: -1 }).exec( (err, data) ->
+  #   return handleError(err) if err
+
+  #   res.render('feed',
+  #     articles: data
+  #   )
+  # )
+  res.render('feed', {})
 
 # the feed in json format
-app.get '/json', (req, res) ->
-  models.Article.find().sort({ pubDate: -1 }).exec( (err, data) ->
-    return handleError(err) if err
+app.get '/articles', (req, res) ->
+  
+  offset = if req.query.offset and not isNaN(req.query.offset) then parseInt(req.query.offset, 10) else 0
 
+  models.Article.find({ archived: { $ne: true }}).sort({ pubDate: -1 }).skip(offset).limit(20).exec( (err, data) ->
+    return handleError(err) if err
     res.json(data)
   )
+
+# Get a single article
+app.get '/articles/:id', (req, res) ->
+  models.Article.findOne({ _id: req.params.id }, (err, article) ->
+    return handleError(err) if err
+
+    res.json(article)
+  )
+
+# Hide/Remove an article from the list
+app.delete '/articles/:id', (req, res) ->
+  console.log "DELETE:", req.params.id
+  models.Article.update({ _id: req.params.id }, { archived: true }, (err, numberEffected) ->
+    return handleError(err) if err
+    console.log "#{numberEffected} Updated"
+    res.json(true)
+  )
+
+# app.delete '/articles/:id', (req, res) ->
+#   console.log "DELETE:", req.params.id
+#   models.Article.update({ _id: req.params.id }, { archived: true }, (err, numberEffected) ->
+#     return handleError(err) if err
+#     console.log "#{numberEffected} Updated"
+#     res.json(true)
+#   )
+
+# app.get '/articles/:id', (req, res) ->
+#   models.Article.findOne({ _id: req.params.id }, (err, article) ->
+#     return handleError(err) if err
+
+#     res.render('feed',
+#       articles: [ article ]
+#     )
+#   )
+# ...and in JSON format
+
+
   
 # List all keywords currently being matched
 app.get '/keywords', (req, res) ->
