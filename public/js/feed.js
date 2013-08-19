@@ -21,6 +21,7 @@ ArticleController = function($scope, Article) {
   $scope.articles = [];
   $scope["delete"] = function(article) {
     console.log("DELETE", this.article._id);
+    this.article.archived = true;
     return Article["delete"]({
       id: this.article._id
     });

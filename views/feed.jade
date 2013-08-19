@@ -4,7 +4,7 @@ block content
     div(ng-controller='ArticleController')
 
       .feed(ng-model='Article')
-        .article(ng-repeat='article in articles')
+        .article(ng-repeat='article in articles', ng-show='! article.archived')
           h2
             a(href='{{article.url}}')
               {{ article.title }}

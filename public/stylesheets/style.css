@@ -17,7 +17,7 @@ header a { font-weight: bold; margin-right:1em; }
 	width:90%; margin:0 auto;
 	color:rgb(80,80,80);
 }
-footer { margin: 3em auto; }
+footer { padding: 3em 0; }
 
 img { max-width:100%; }
 h2 { font-size:1.3em; margin-bottom:0.3em; }

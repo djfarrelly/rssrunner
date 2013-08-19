@@ -18,6 +18,7 @@ ArticleController = ($scope, Article) ->
 
   $scope.delete = (article) ->
     console.log "DELETE", this.article._id
+    this.article.archived = true
     Article.delete { id: this.article._id }
 
   $scope.loadMore = ->
