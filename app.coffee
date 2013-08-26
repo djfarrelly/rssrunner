@@ -34,21 +34,29 @@ app.configure ->
 
 
 app.get '/', (req, res) ->
-  # models.Article.find().sort({ pubDate: -1 }).exec( (err, data) ->
-  #   return handleError(err) if err
-
-  #   res.render('feed',
-  #     articles: data
-  #   )
-  # )
   res.render('feed', {})
 
 # the feed in json format
 app.get '/articles', (req, res) ->
   
   offset = if req.query.offset and not isNaN(req.query.offset) then parseInt(req.query.offset, 10) else 0
+  limit = if req.query.limit and not isNaN(req.query.limit) then parseInt(req.query.limit, 10) else 20
 
-  models.Article.find({ archived: { $ne: true }}).sort({ pubDate: -1 }).skip(offset).limit(20).exec( (err, data) ->
+  # The base DB query
+  query = {
+    archived: { $ne: true }
+  }
+
+  if req.query.search
+    try
+      searchRegEx = new RegExp(req.query.search, 'i')
+      query.$or = [{ title: { $regex: searchRegEx } }, { description: { $regex: searchRegEx } }]
+    catch err
+      console.err err
+
+  query.keywords = req.query.keyword if req.query.keyword
+
+  models.Article.find(query).sort({ pubDate: -1 }).skip(offset).limit(limit).exec( (err, data) ->
     return handleError(err) if err
     res.json(data)
   )
